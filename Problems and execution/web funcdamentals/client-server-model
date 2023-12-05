@@ -1,0 +1,21 @@
+- web page request lifecycle
+  https://www.algoexprt.io:443/frontend
+  protocol://subdomain.domain.topLevelDomain:port/path
+
+## DNS(domain name system)
+
+- converts domain name to OP address
+- always checks local cache before making a network request
+-
+
+## TCP - transmission control protocol
+
+3 way hand-shake
+
+- Synchronisation packet
+- Synchronisation acknowledgement
+- Synchronisation acknowledgement- acknowledgement
+
+- connection
+
+- fin packet to finish the connection
